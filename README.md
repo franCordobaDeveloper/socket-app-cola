@@ -14,9 +14,9 @@ Aplicacion de cola
 ## Características
 
 - **Funcionalidad Escritorio:** Debemos ingresar el escritorio en el que queremos trabajar.
-- 
+
 - **Funcionalidad Generar Ticket:** Generamos los tickets.
-- 
+
 - **Funcionalidad Generar Pantalla Publica:** En pantalla publica podemos ver los escritorios disponibles y el numero de tickets.
 
 
